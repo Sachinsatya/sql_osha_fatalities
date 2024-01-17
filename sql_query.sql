@@ -401,7 +401,7 @@ ORDER BY
 	total_shooting_deaths desc;
 
 
---COPY fatalities_cleaned TO 'C:\Users\Jaime\Desktop\osha_fatalities.csv' DELIMITER ',' CSV HEADER;  
+
 
 
    
